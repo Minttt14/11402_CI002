@@ -72,5 +72,5 @@ int main() {
 - 改進方向:作答前要謹慎考慮各種可能情況
 - 學習心得:將題目讀懂再下手，注意邊界與溢位的可能性
 
-## References
+## 參考
 - [Problem Link](https://onlinejudge.org/)
