@@ -1,7 +1,7 @@
 # UVa 100 - The 3n+1 Problem
 
 ## 問題描述
-Brief description of the problem here. [Link to problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=36)
+給定兩個整數 $i$ 與 $j$，計算在 $[i, j]$ 區間內（包含 $i$ 與 $j$）的所有整數中，經過 3n+1 運算回到 1 所需步數（包含起點與終點）的最大值是多少。 [Link to problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=36)
 
 ## 學習目標
 - [ ] 理解 3n+1 猜想
