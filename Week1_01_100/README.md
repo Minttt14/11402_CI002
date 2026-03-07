@@ -61,7 +61,7 @@ int main() {
 [source code](./src/s1131408-UVa100.cpp)
 
 ## 複雜度分析
-- **時間複雜度:** O(T \times L \times K)
+- **時間複雜度:** $O(T \times L \times K)$
   - $T$: 測試資料的筆數 (Total Test Cases)
   - $L$: 區間長度，即 $|j - i| + 1$
   - $K$: 該區間內數字的最大循環長度 (Max Cycle Length)
