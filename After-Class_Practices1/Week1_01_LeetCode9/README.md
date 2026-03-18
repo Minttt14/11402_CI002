@@ -35,7 +35,7 @@ public:
     }
 };
 ```
-[source code](./src/s1131408-LeetCode.cpp)
+[source code](./src/s1131408-LeetCode9.cpp)
 
 ## 複雜度分析
 - **時間複雜度:** O($\log_{10} N$)
