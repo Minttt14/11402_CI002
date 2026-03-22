@@ -6,7 +6,7 @@
 - **題目編號:** 272
 - **題目標題:** TEX Quotes
 - **題目連結:** [Link to problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=208)
-- **正式程式碼 (正確/通過):** [src/s1131408-UVa272.cpp](./src/s1131408-UVa272.cpp)
+- **原始程式碼 (正確/通過):** [src/s1131408-UVa272-correct.cpp](./src/s1131408-UVa272-correct.cpp)
 
 ## 2. 題目說明
 讀取輸入文本中成對出現的雙引號，將第一次出現的(")轉換為(``)，第二次出現轉換為('')，直到輸入結束

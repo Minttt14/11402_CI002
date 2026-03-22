@@ -6,7 +6,7 @@
 - **題目編號:** 10170
 - **題目標題:** The Hotel with Infinite Rooms
 - **題目連結:** [Link to problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=13&page=show_problem&problem=1111)
-- **正式程式碼 (正確/通過):** [src/s1131408-UVa10170.cpp](./src/s1131408-UVa10170.cpp)
+- **原始程式碼 (正確/通過):** [src/s1131408-UVa10170-correct.cpp](./src/s1131408-UVa10170-correct.cpp)
 
 ## 2. 題目說明
 

@@ -6,7 +6,7 @@
 - **題目編號:** 10783
 - **題目標題:** Odd Sum
 - **題目連結:** [Link to problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=19&page=show_problem&problem=1724)
-- **正式程式碼 (正確/通過):** [src/s1131408-UVa10783.cpp](./src/s1131408-UVa10783.cpp)
+- **原始程式碼 (正確/通過):** [src/s1131408-UVa10783-correct.cpp](./src/s1131408-UVa10783-correct.cpp)
 
 ## 2. 題目說明
 

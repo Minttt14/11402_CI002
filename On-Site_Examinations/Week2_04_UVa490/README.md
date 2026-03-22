@@ -6,7 +6,7 @@
 - **題目編號:** 490
 - **題目標題:** Rotating Sentences
 - **題目連結:** [Link to problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=6&page=show_problem&problem=431)
-- **正式程式碼 (正確/通過):** [src/s1131408-UVa490.cpp](./src/s1131408-UVa490.cpp)
+- **原始程式碼 (正確/通過):** [src/s1131408-UVa490-correct.cpp](./src/s1131408-UVa490-correct.cpp)
 
 ## 2. 題目說明
 將給定的多行字串順時針旋轉 90 度後輸出，每一行輸出的字元應該來自原始輸入的同一位數索引，且原始輸入的最後一行會變成旋轉後的第一個行

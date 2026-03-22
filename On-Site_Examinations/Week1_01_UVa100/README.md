@@ -6,7 +6,7 @@
 - **題目編號:** 100
 - **題目標題:** The 3n+1 Problem
 - **題目連結:** [Link to problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=36)
-- **正式程式碼 (正確/通過):** [src/s1131408-UVa100.cpp](./src/s1131408-UVa100.cpp)
+- **原始程式碼 (正確/通過):** [src/s1131408-UVa100-correct.cpp](./src/s1131408-UVa100-correct.cpp)
 
 ## 2. 題目說明
 給定兩個整數 $i$ 與 $j$，計算在 $[i, j]$ 區間內（包含 $i$ 與 $j$）的所有整數中，經過 3n+1 運算回到 1 所需步數（包含起點與終點）的最大值是多少
