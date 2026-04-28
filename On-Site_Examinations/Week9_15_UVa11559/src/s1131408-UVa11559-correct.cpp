@@ -29,9 +29,9 @@ int main() {
         }
 
         if (minCost <= B) {
-            cout << minCost << endl;
+            cout << minCost << "\n";
         } else {
-            cout << "stay home" << endl;
+            cout << "stay home\n";
         }
     }
     return 0;
