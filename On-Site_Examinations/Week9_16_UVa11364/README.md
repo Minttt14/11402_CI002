@@ -66,7 +66,7 @@ int main() {
             if (x < minPos) minPos = x;
             if (x > maxPos) maxPos = x;
         }
-        cout << (maxPos - minPos) * 2 << endl;
+        cout << (maxPos - minPos) * 2 << "\n";
     }
     return 0;
 }
