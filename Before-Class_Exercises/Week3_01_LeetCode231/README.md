@@ -5,7 +5,7 @@
 - **平台:** LeetCode
 - **題目編號:** 231
 - **題目標題:** Power of Two
-- **題目連結:** [Link to problem](https://leetcode.com/problems/palindrome-number/description/)
+- **題目連結:** [Link to problem](https://leetcode.com/problems/power-of-two/description/)
 - **原始程式碼 (正確/通過):** [src/s1131408-LeetCode231-correct.cpp](./src/s1131408-LeetCode231-correct.cpp)
 
 ## 2. 題目說明
