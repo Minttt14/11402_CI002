@@ -88,7 +88,7 @@ public:
 | Item | Fail Code | Correct Code |
 |---|---|---|
 | 邏輯 |  | 不更動鏈結結構，純粹提取數值交給底層高度優化的 sort()，再依序覆寫 |
-| 邊際情況 |  | 開頭用 if(!head || !head->next) 完美攔截 |
+| 邊際情況 |  | 開頭用 if(!head \|\| !head->next) 完美攔截 |
 | 輸出處理 |  | 正確排序各節點的值 |
 
 ### 反思
