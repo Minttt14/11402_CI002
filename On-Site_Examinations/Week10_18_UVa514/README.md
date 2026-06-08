@@ -5,7 +5,7 @@
 - **平台:** UVa
 - **題目編號:** 514
 - **題目標題:** Rails
-- **題目連結:** [Link to problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=8&page=show_problem&problem=614)
+- **題目連結:** [Link to problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=455)
 - **原始程式碼 (正確/通過):** [src/s1131408-UVa514-correct.cpp](./src/s1131408-UVa514-correct.cpp)
 
 ## 2. 題目說明
